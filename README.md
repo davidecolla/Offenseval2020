@@ -67,4 +67,4 @@ Eg. for the english language:
 python fine_tune_language_model_no_validation.py ../data/en/c/pretrained_lm ../data/en/c/finetuned_text_classification ../data/en/fine_tuning-data/training.tsv
 ```
 
-In order to produce the Offenseval 2 submission files run the **Execution**step. 
+In order to produce the Offenseval 2 submission files run the **Execution** step. 
