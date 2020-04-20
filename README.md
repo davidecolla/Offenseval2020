@@ -14,9 +14,9 @@ NB. It requires [Anaconda](https://www.anaconda.com/distribution/)
 
 #### 2 - Download pre-trained models and fine-tuned models
 Download data from the following links and unpack the archive in the data folder.
-- ["EN - submitted run (mBERT-E3)"](https://drive.google.com/drive/folders/1gpZgekt4L1p0yR-e-wIzflb779aBl-S9?usp=sharing)
-- ["DA - submitted run (mBERT-D3)"](https://drive.google.com/drive/folders/1gfzaO104cQh-AlrKTVs-OvTXdinhMVcU?usp=sharing) 
-- ["TR - submitted run (mBERT-T1)"](https://drive.google.com/drive/folders/1gfzaO104cQh-AlrKTVs-OvTXdinhMVcU?usp=sharing)
+- [EN - submitted run (mBERT-E3)](https://drive.google.com/drive/folders/1gpZgekt4L1p0yR-e-wIzflb779aBl-S9?usp=sharing)
+- [DA - submitted run (mBERT-D3)](https://drive.google.com/drive/folders/1gfzaO104cQh-AlrKTVs-OvTXdinhMVcU?usp=sharing) 
+- [TR - submitted run (mBERT-T1)](https://drive.google.com/drive/folders/1gfzaO104cQh-AlrKTVs-OvTXdinhMVcU?usp=sharing)
 
 ## Execution
 In order to produce the submission files run the script 'code/text_classification_with_pretrained_model.py'. The script takes three arguments:
