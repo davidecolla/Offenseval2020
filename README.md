@@ -2,7 +2,7 @@
 This repository contains the source code for the models used for _OffensEval 2_ team's submission
 for [SemEval-2020 Task 12 “OffensEval 2: Multilingual Offensive Language Identification in Social Media”](https://sites.google.com/site/offensevalsharedtask/).
 The model is described in the paper 
-["GruPaTo at SemEval-2020 Task 12: Retraining mBERT on Social Media and Fine-tune Offensive Language Models"](paper_link).
+["GruPaTo at SemEval-2020 Task 12: Retraining mBERT on Social Media and Fine-tune Offensive Language Models"](offenseval_2020.pdf).
 
 
 ## Prerequisites
